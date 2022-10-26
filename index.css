@@ -36,7 +36,7 @@ p,
 li {
   font-size: 18px;
   font-family: Verdana;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 body {
   background-color: beige;
