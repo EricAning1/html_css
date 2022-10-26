@@ -30,13 +30,11 @@ a {
   font-family: Verdana;
   font-size: 16px;
   color: red;
-  font-family: Verdana;
 }
 p,
 li {
   font-size: 18px;
   font-family: Verdana;
-  /* font-weight: bold; */
 }
 body {
   background-color: beige;
