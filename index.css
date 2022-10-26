@@ -1,0 +1,55 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+.eric {
+  display: flex;
+  gap: 10px;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: brown;
+  margin-bottom: 25px;
+}
+a {
+  color: aliceblue;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 12px;
+}
+h1,
+h2,
+a {
+  font-weight: bold;
+  font-family: Verdana;
+}
+
+.link,
+#footer {
+  font-family: Verdana;
+  font-size: 16px;
+  color: red;
+  font-family: Verdana;
+  font-size: 16px;
+}
+p,
+li {
+  font-size: 18px;
+  font-family: Verdana;
+  font-weight: bold;
+}
+body {
+  background-color: beige;
+}
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  border-bottom: 4px;
+}
+
+#beef {
+  margin-top: 0;
+}
